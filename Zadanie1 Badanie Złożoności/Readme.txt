@@ -1,0 +1,4 @@
+W pliku czas.py znajdują się definicje pięciu funkcji: f1, f2, ... , f5 oraz pomiar sprawdzający, czy rzeczywisty czas działania funkcji f1(n) (wyliczony w zmiennej Tn) dla różnych wartości n (równych 2000, 4000, 8000, 16000, 32000) zmienia się zgodnie z przebiegiem funkcji liniowej (Fn = n) Wykonać podobne pomiary dla pozostałych funkcji, dobierając odpowiednie funkcje Fn. Funkcja Fn "dobrze" opisuje prawdziwy czas Tn danej funkcji, jeżeli ilorazy Fn/Tn są mniej więcej takie same dla wszystkich wartości n.
+
+Jako rozwiązanie przesłać kod programu wykonującego pomiary z dołączonymi wynikami wygenerowanymi przez ten program dla wszystkich pięciu funkcji. Wyniki te można dołączyć np. jako komentarz na końcu kodu programu.
+Dodatkowo proszę przesłać wykresy uwzględniające powyższe dane (zmienna x = rozmiar wejścia. y = czas wykonanaia), odpowiednio dla każdej funkcji. Można je wykonać np. za pomocą programu gnuplot
